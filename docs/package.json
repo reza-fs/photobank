@@ -1,0 +1,22 @@
+{
+  "name": "photobank",
+  "version": "0.0.1",
+  "description": "Generating image gallery based on file structure",
+  "main": "index.js",
+  "authors": {
+    "name": "",
+    "email": ""
+  },
+  "repository": "/photobank",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
