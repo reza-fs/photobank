@@ -1,15 +1,12 @@
 ---
 home: true
-heroImage: https://v1.vuepress.vuejs.org/hero.png
-tagline: Generating image gallery based on file structure
-actionText: Quick Start →
-actionLink: /guide/
 features:
 - title: Feature 1 Title
-  details: Feature 1 Description
-- title: Feature 2 Title
-  details: Feature 2 Description
-- title: Feature 3 Title
-  details: Feature 3 Description
-footer: Made by  with ❤️
+  per_month: 1600 USD
+  image: /page1.jpeg
+  link: /page1/ 
+- title: Feature 1 Title
+  per_month: 2500 USD
+  image: /page1.jpeg
+  link: /page1/
 ---

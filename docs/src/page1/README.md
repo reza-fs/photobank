@@ -12,3 +12,5 @@
   <source src="./big_buck_bunny_480p_1mb.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video> 
+
+<embed src="/sample.pdf" width="800px" height="2100px" />
